@@ -1,16 +1,18 @@
-![My profile picture](/my%20profile%20picture.jpg)
+![My profile picture](/my%20profile%20picture2.jpg)
 
 # **Safina Alina**
 
-#### Discord - **@AlinaS#7412**
+Discord - **_@AlinaS#7412_**
 
-#### Email - **lina.zumba@mail.ru**
+Email - **_lina.zumba@mail.ru_**
 
-#### Telegram - **@lina12lina**
+Telegram - **_@lina12lina_**
 
-### _I have been taken courses on Udemy (Web-development, React) for almost 1 year. Additionally, I took a course in Innopolis University and learned HTML, CSS, JS with a mentor._
+_I have been taken courses on Udemy (Web-development, React) for almost 1 year. Additionally, I took a course in Innopolis University and learned HTML, CSS, JS with a mentor._
 
-### Technical skills: HTML, CSS, JS, TS, React, Redux, VueJS, git, VSCode
+### Technical skills:
+
+HTML, CSS, JS, TS, React, Redux, VueJS, git, VSCode
 
 ### Code examples:
 
