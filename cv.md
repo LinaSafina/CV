@@ -37,13 +37,13 @@ Tech stack: React, TS, Redux, react-hook-form + yup, styled-components, Material
 ## Projects:
 
 - [Online Bakery Shop](https://final-project-409c3.web.app/) is a React project. Customers can choose items, add them to the cart, delete items, and authorize to send their order. This site is available on both laptop and mobile devices. Firebase was used as a database, for authentification and deployment.
-<img src="https://github.com/LinaSafina/CV/blob/gh-pages/BakeryShop.png" width="350" alt="screenshot"/>
+<img src="BakeryShop.png" width="350" alt="screenshot"/>
 
 - [BookLovers](https://aston-project-f5a36.web.app) is a React project written on TypeScript. Users can search for their favourite books, read the info about each book, and sign up to get access to the history of search and to be able to add books to the list of favourites.
-<img src="https://github.com/LinaSafina/CV/blob/gh-pages/BookLovers2.png" width="350" alt="screenshot"/>
+<img src=BookLovers2.png" width="350" alt="screenshot"/>
 
 - [Shelter]( https://linasafina.github.io/Dog-Shelter/shelter/) is a project in which there is an adaptive markup with two pages (not interactive). Tech stack: HTML and CSS. [Figma design](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom)
-<img src="https://github.com/LinaSafina/CV/blob/gh-pages/Shelter.png" width="350" alt="screenshot"/>
+<img src=Shelter.png" width="350" alt="screenshot"/>
 
 ## Education:
 
