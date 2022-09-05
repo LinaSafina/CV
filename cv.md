@@ -1,4 +1,4 @@
-![My profile picture](CV/my%20profile%20picture2.jpg)
+![My profile picture](my%20profile%20picture2.jpg)
 
 # **Safina Alina**
 
