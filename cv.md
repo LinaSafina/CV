@@ -4,7 +4,7 @@
 
 ## Contacts:
 
-Discord - **_@AlinaS#7412_**
+GitHub - [**_LinaSafina_**](https://github.com/LinaSafina)
 
 Email - **_lina.zumba@mail.ru_**
 
@@ -12,43 +12,41 @@ Telegram - **_@lina12lina_**
 
 ## Briefly about myself
 
-_I have been taken courses on Udemy (Web-development, React) for almost 1 year. Additionally, I took a course in Innopolis University and learned HTML, CSS, JS with a mentor._
+Front-end developer with 1 year of web application development experience. The main technology stack includes the JavaScript programming language and one of the most popular frameworks ReactJS. Result-oriented, motivated and disciplined team player.
 
 ## Technical skills:
 
 - HTML, CSS
-- JavaScript Basics
-- React and Redux
-- VueJS
+- JavaScript, typeScript
+- React and Redux (ReduxToolkit)
+- Styled-components, MaterialUI
+- react-hook-form, yup
 - Git, GitHub and GitLab
-- VS Code
 
-## Code examples:
+## Work experience:
 
-**KATA from Codewars**: _An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case._
+**2022, January - 2022, August**: _Andersen, Junior frontend developer_
+- online banking system development;
+- writing Unit-tests (Jest+RTL)
+- code-review
 
-```
-function isIsogram(str){
-  const arr = str.toLowerCase().split('')
+Tech stack: React, TS, Redux, react-hook-form + yup, styled-components, MaterialUI
 
-  for(let i=0;i<arr.length;i++){
-    if(arr.includes(arr[i], i+1)){
-      return false
-    }
-  }
-
-  return true
-}
-```
+**2018, September - 2022, August**: _Uchi.doma, English tutor_
 
 ## Projects:
 
-[Online Bakery Shop](https://github.com/LinaSafina/bakery-shop) is a React project. Customers can choose items, add them to the cart, delete items, and authorize to send their order. This site is available on both laptop and mobile devices. Firebase was used as a database, for authentification and deployment.
+- [Online Bakery Shop](https://final-project-409c3.web.app/) is a React project. Customers can choose items, add them to the cart, delete items, and authorize to send their order. This site is available on both laptop and mobile devices. Firebase was used as a database, for authentification and deployment.
+- [BookLovers](https://aston-project-f5a36.web.app) is a React project written on TypeScript. Users can search for their favourite books, read the info about each book, and sign up to get access to the history of search and to be able to add books to the list of favourites.
+- [Shelter]( https://linasafina.github.io/Dog-Shelter/shelter/) is a project in which there is an adaptive markup with two pages (not interactive). Tech stack: HTML and CSS. [Figma design](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom)
 
 ## Education:
 
-- MSU named by Lomonosov, chemical department
-- Innopolis University, course, basics of Frontend
+MSU named by Lomonosov, Specialist in Chemistry
+
+#### Courses
+- Andersen, JS Core and React
+- Innopolis University, Basics of Frontend
 - Udemy, Web-development Bootcamp and React
 
 ## Level of English:
